@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mmustafa512
+- 👋 Hi, I’m @m-mustafa512
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning different programming languages
-- 💞️ I’m looking to collaborate on learning C++
+- 💞️ I’m looking to collaborate on learning from experts and sharing my work with you to review it use it.
 - 📫 How to reach me: Mail me at mustafa554mmf@gmail.com
 
 <!---
